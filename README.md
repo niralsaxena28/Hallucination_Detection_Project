@@ -2,7 +2,7 @@
 
 An AI-powered framework that analyses AI-generated responses, extracts factual claims, retrieves supporting evidence, detects potential hallucinations, and generates corrected responses with transparent verification results.
 
-## Overview
+## Overview 
 
 Large Language Models (LLMs) can generate convincing answers containing inaccurate or unsupported information. **Verity AI** aims to address this challenge through claim-level verification, evidence retrieval, and automated correction.
 
